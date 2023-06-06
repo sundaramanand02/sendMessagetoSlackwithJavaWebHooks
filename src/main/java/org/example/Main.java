@@ -8,7 +8,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello , here we will send message to slack through java code");
 
-        // P
-        }
+        // Press Shift+F10 or click the green arrow button in the gutter to run the code.
+
     }
 }

@@ -5,7 +5,7 @@ import com.github.seratch.jslack.api.webhook.WebhookResponse;
 public class SlackIntegrationTest {
 
 
-    private static String webHooksUrl = "https://hooks.slack.com/services/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";
+    private static String webHooksUrl = "https://hooks.slack.com/services/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";
     private static String oAuthToken = "xoxb-5361693837622-5392064578624-15wr2V4Ufp7yzbzhq7X64UXB";
     private static String slackChannel = "ccm-automation-cart-be";
 
